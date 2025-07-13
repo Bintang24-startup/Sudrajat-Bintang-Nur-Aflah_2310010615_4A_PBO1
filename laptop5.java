@@ -6,7 +6,7 @@ public class laptop5 {
     private int harga;
 
     // 4. Constructor: Mengisi atribut saat objek dibuat
-    public Laptop(String merk, String tipe, int harga) {
+    public Laptop5(String merk, String tipe, int harga) {
         this.merk = merk;
         this.tipe = tipe;
         this.harga = harga;
